@@ -1,0 +1,11 @@
+git clone --> copy the URL
+
+git status
+git pull
+
+git branch branch-name
+git switch branch name or git checkout branch-name
+
+
+To push the branch to the remote server, run
+git push –u origin <branch name>
