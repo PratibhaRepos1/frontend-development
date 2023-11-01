@@ -9,3 +9,9 @@ git switch branch name or git checkout branch-name
 
 To push the branch to the remote server, run
 git push –u origin <branch name>
+
+-- push your changes
+
+git add .
+git commit -m 'add your message'
+git push
